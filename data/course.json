@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "name": "Web Design",
+        "img" : "https://raw.githubusercontent.com/faazizpro/faazizproed/main/images/web-design.png",
+        "price" : "$200",
+        "user" : "120",
+        "info" : "A Web Designing course belongs to the field of Computer Science and IT. It enables students to learn various techniques, tools and programming languages in order to create and maintain web pages. There is an array of courses in this field ranging from certificate and Diploma courses to UG, PG and PGDM programs."
+    },
+    {
+        "id": 2,
+        "name": "Web Development",
+        "img" : "https://raw.githubusercontent.com/faazizpro/faazizproed/main/images/web-development.png",
+        "price" : "$150",
+        "user" : "175",
+        "info" : "Web development is everything involved in the creation of a website. Typically it refers to the coding and programming side of web site production as opposed to the web design side. It encompasses everything from a simple page of HTML text to complex, feature-rich applications designed to be accessed from various Internet-connected devices."
+    },
+    {
+        "id": 3,
+        "name": "Digital Marketing",
+        "img" : "https://raw.githubusercontent.com/faazizpro/faazizproed/main/images/digital-marketing.png",
+        "price" : "$150",
+        "user" : "45",
+        "info" : "Digital Marketing is any kind of marketing that happens on a digital platform. Whether it’s on your website, your social media, or through email, it’s digital marketing."
+    },
+    {
+        "id": 4,
+        "name": "Graphic Design",
+        "img" : "https://raw.githubusercontent.com/faazizpro/faazizproed/main/images/graphic.png",
+        "price" : "$75",
+        "user" : "35",
+        "info" : "Graphic Design is all around us! Words and pictures—the building blocks of graphic design—are the elements that carry the majority of the content in both the digital world and the printed world. As graphic design becomes more visible and prevalent in our lives, graphic design as a practice becomes more important in our culture."
+    },
+    {
+        "id": 5,
+        "name": "CopyWriting",
+        "img" : "https://raw.githubusercontent.com/faazizpro/faazizproed/main/images/copywriting.png",
+        "price" : "$85",
+        "user" : "23",
+        "info" : "Copywriting is a marketing strategy consisting of writing the right words to promote a business, convincing readers to buy a specific product/service or follow through with a call to action."
+    },
+    {
+        "id": 6,
+        "name": "SEO",
+        "img" : "https://raw.githubusercontent.com/faazizpro/faazizproed/main/images/SEO.png",
+        "price" : "$50",
+        "user" : "12",
+        "info" : "SEO (Search Engine Optimization) is the practice of optimizing a website or webpage to increase the quantity and quality of its traffic from a search engine’s organic results. "
+    }
+]
