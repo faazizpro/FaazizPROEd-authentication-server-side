@@ -21,7 +21,7 @@ app.get('/course/:id', (req,res) => {
   res.send(singleCourse)
 })
 
-app.get('/enroll/:id', (req,res) => {
+app.get('/checkout/:id', (req,res) => {
   const id = req.params.id;
   const enrollCourse = categories.find(sc => sc.id == id)
   res.send(enrollCourse)
